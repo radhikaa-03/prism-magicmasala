@@ -1,0 +1,8 @@
+mteb
+sentence-transformers
+torch
+rank_bm25
+numpy
+datasets
+tqdm
+transformers
